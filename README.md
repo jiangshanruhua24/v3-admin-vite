@@ -1,11 +1,12 @@
 <div align="center">
-  <img alt="Admin Vite Logo" width="120" height="120" src="./src/assets/layouts/logo.png">
-  <h1>Admin Vite</h1>
+  <img alt="V3 Admin Vite Logo" width="120" height="120" src="./src/assets/layouts/logo.png">
+  <h1>V3 Admin Vite</h1>
   <span>English | <a href="./README.zh-CN.md">中文</a></span>
 </div>
 
 ## ⚡ Introduction
- is a free and open source middle and background management system basic solution, based on mainstream framework such as Vue3, TypeScript, Element Plus, Pinia and Vite
+
+V3 Admin Vite is a free and open source middle and background management system basic solution, based on mainstream framework such as Vue3, TypeScript, Element Plus, Pinia and Vite
 
 - Vue Cli 5.x: [v3-admin](https://github.com/un-pany/v3-admin)
 - Electron desktop: [v3-electron-vite](https://github.com/un-pany/v3-electron-vite)

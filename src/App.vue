@@ -5,7 +5,6 @@ import { ElNotification } from "element-plus"
 import zhCn from "element-plus/es/locale/lang/zh-cn"
 
 const { initTheme } = useTheme()
-// 111
 /** 初始化主题 */
 initTheme()
 
